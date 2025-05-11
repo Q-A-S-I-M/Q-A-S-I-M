@@ -8,7 +8,6 @@
 ⚡ &nbsp;Love building real-world applications that solve everyday problems.  
 💬 &nbsp;Always open to collaboration, new ideas, and tech discussions.  
 📫 &nbsp;Reach out at **qasimali7618@gmail.com**. Let's connect!  
-📄 &nbsp;[My Résumé](https://github.com/Q-A-S-I-M/Q-A-S-I-M/blob/main/resume.pdf)
 
 ---
 
