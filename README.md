@@ -1,4 +1,3 @@
-<img alt="Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40" align="left" />
 <h2>Hey there! I'm Qasim</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -10,8 +9,6 @@
 💬 &nbsp;Always open to collaboration, new ideas, and tech discussions.  
 📫 &nbsp;Reach out at **qasimali7618@gmail.com**. Let's connect!  
 📄 &nbsp;[My Résumé](https://github.com/Q-A-S-I-M/Q-A-S-I-M/blob/main/resume.pdf)
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300"/>
 
 ---
 
