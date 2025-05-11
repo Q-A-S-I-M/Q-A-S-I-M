@@ -72,5 +72,4 @@
 <p align="center">
   <a href="mailto:qasimali7618@gmail.com"><img src="https://img.shields.io/badge/-qasimali7618@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/qasim-ali-qureshi-71605b2b6/"><img src="https://img.shields.io/badge/-Qasim%20Ali%20Qureshi-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Q-A-S-I-M"><img src="https://img.shields.io/badge/-Q-A-S-I-M-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
