@@ -65,15 +65,6 @@
 
 ---
 
-### 📊 &nbsp;GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Q-A-S-I-M&show_icons=true&theme=algolia&count_private=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Q-A-S-I-M&layout=compact&theme=algolia" height="180em"/>
-</p>
-
----
-
 ### 🤝🏻 &nbsp;Connect With Me
 
 <p align="center">
